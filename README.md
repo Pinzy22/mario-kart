@@ -1,10 +1,10 @@
-[readme.md](https://github.com/user-attachments/files/26605348/readme.md)
+[readme.md](https://github.com/user-attachments/files/26605548/readme.md)
 <h1>Desafio de projeto do Felipão: Mario Kart.JS</h1>
 
   <table>
         <tr>
             <td>
-                <img src="./docs/header.gif" alt="Mario Kart" width="200">
+                <img src="./docs/star_wars_logo_PNG20.png" alt="Mario Kart" width="200">
             </td>
             <td>
                 <b>Objetivo:</b>
@@ -18,7 +18,7 @@
         <tr>
             <td style="border: 1px solid black; text-align: center;">
                 <p>Darth Vader</p>
-                <img src="/docs/vader.gif" alt="Mario Kart" width="60" height="60">
+                <img src="./docs/vader.gif" alt="Mario Kart" width="60" height="60">
             </td>
             <td style="border: 1px solid black; text-align: center;">
                 <p>Velocidade: 4</p>
@@ -27,7 +27,7 @@
             </td>
              <td style="border: 1px solid black; text-align: center;">
                 <p>Obi-wan</p>
-                <img src="/docs/obiwan.gif" alt="Mario Kart" width="60" height="60">
+                <img src="./docs/obiwan.gif" alt="Mario Kart" width="60" height="60">
             </td>
             <td style="border: 1px solid black; text-align: center;">
                 <p>Velocidade: 4</p>
@@ -36,7 +36,7 @@
             </td>
               <td style="border: 1px solid black; text-align: center;">
                 <p>R2D2</p>
-                <img src="/docs/r2d2.gif" alt="Mario Kart" width="60" height="60">
+                <img src="./docs/r2d2.gif" alt="Mario Kart" width="60" height="60">
             </td>
             <td style="border: 1px solid black; text-align: center;">
                 <p>Velocidade: 4</p>
@@ -47,7 +47,7 @@
         <tr>
             <td style="border: 1px solid black; text-align: center;">
                 <p>Han Solo</p>
-                <img src="/docs/hansolo.gif" alt="Mario Kart" width="60" height="60">
+                <img src="./docs/hansolo.gif" alt="Mario Kart" width="60" height="60">
             </td>
             <td style="border: 1px solid black; text-align: center;">
                 <p>Velocidade: 5</p>
@@ -56,7 +56,7 @@
             </td>
             <td style="border: 1px solid black; text-align: center;">
                 <p>Luke</p>
-                <img src="/docs/luke.gif" alt="Mario Kart" width="60" height="60">
+                <img src="./docs/luke.gif" alt="Mario Kart" width="60" height="60">
             </td>
             <td style="border: 1px solid black; text-align: center;">
                 <p>Velocidade: 3</p>
@@ -65,7 +65,7 @@
             </td>
             <td style="border: 1px solid black; text-align: center;">
                 <p>Leia</p>
-                <img src="/docs/leia.gif" alt="Mario Kart" width="60" height="60">
+                <img src="./docs/leia.gif" alt="Mario Kart" width="60" height="60">
             </td>
             <td style="border: 1px solid black; text-align: center;">
                 <p>Velocidade: 3</p>
